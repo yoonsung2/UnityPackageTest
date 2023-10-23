@@ -1,8 +1,19 @@
 {
-  "name": "com.kyowon.plugin.unitypackagetest",
+  "name": "unitypackagetest",
   "version": "1.0.0",
-  "displayName": "UnityPackageTest",
-  "description": "Unity Package Test Module",
-  "unity": "2022.3"
-  }
+  "description": "unity package test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoonsung2/UnityPackageTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoonsung2/UnityPackageTest/issues"
+  },
+  "homepage": "https://github.com/yoonsung2/UnityPackageTest#readme"
 }
