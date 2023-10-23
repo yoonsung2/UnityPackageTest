@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yoonsung2/UnityPackageTest/issues"
   },
-  "homepage": "https://github.com/yoonsung2/UnityPackageTest#readme"
+  "homepage": "https://github.com/yoonsung2/UnityPackageTest#readme",
+"publishConfig": {
+  "@yoonsung2:registry": "https://npm.pkg.github.com"
+}
 }
