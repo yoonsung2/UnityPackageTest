@@ -1,0 +1,8 @@
+{
+  "name": "com.kyowon.plugin.unitypackagetest",
+  "version": "1.0.0",
+  "displayName": "UnityPackageTest",
+  "description": "Unity Package Test Module",
+  "unity": "2022.3"
+  }
+}
